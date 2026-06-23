@@ -17,3 +17,20 @@ MySQL (if applicable)
 ##System Purpose
 The system is designed to streamline the recruitment process by reducing manual CV screening and improving the accuracy of candidate evaluation through structured criteria-based assessment.
 
+## 📸 Screenshots
+
+###Welcome Dashboard
+![Dashboard](Screenshot%20(191).png)
+
+###Menu  Dashboard
+![Menu Page](Screenshot%20(192).png)
+
+### Form
+![Form](Screenshot%20(193).png)
+
+###Confirmation Page
+![confirmation](Screenshot%20(197).png)
+
+### Report
+![Report](Screenshot%20(195).png)
+
